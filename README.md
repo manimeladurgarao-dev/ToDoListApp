@@ -27,4 +27,4 @@ python todo.py
 ![App Screenshot](app.png)
 
 ## Author
-Kalyani Manimela
+Manimela Durgarao
